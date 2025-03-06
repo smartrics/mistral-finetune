@@ -6,7 +6,7 @@ safetensors
 tensorboard
 tqdm
 
-torch
+torch==2.5.1
 triton
 xformers
 
