@@ -31,6 +31,7 @@ NUM_GPUS = 8
 
 # EXPECTED WPS for batch_size = 32768 per GPU on H100
 EXPECTED_WPS = {
+    "mistral_models/mistral-7b-instruct-v0.3.0": 5720,
     "open-mistral-7b": 5720,
     "open-mixtral-8x7b": 2966,
     "open-mixtral-8x22b": 1007,
