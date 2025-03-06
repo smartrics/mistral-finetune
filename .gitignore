@@ -172,3 +172,7 @@ eval/eval-*
 
 # Symlinks
 tests/fixtures
+
+
+mistral_models/
+
