@@ -1,3 +1,8 @@
+torch
+triton
+--extra-index-url https://download.pytorch.org/whl/cu126
+xformers
+
 fire
 simple-parsing
 pyyaml
@@ -6,9 +11,11 @@ safetensors
 tensorboard
 tqdm
 
-torch
-triton
---extra-index-url https://download.pytorch.org/whl/cu126
-xformers
 
 #numpy
+
+transformers
+
+peft
+accelerate
+sentencepiece
