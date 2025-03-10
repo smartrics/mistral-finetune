@@ -6,8 +6,9 @@ safetensors
 tensorboard
 tqdm
 
-torch==2.5.1
+torch
 triton
+--extra-index-url https://download.pytorch.org/whl/cu126
 xformers
 
 #numpy
