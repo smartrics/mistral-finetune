@@ -1,4 +1,4 @@
-torch
+torch==2.6.0
 triton
 --extra-index-url https://download.pytorch.org/whl/cu126
 xformers
