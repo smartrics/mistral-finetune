@@ -3,6 +3,8 @@ xformers
 
 torch==2.6.0
 triton
+torchvision
+torchaudio
 
 fire
 simple-parsing
@@ -12,11 +14,9 @@ safetensors
 tensorboard
 tqdm
 
-
 #numpy
 
 transformers
-
 peft
 accelerate
 sentencepiece
